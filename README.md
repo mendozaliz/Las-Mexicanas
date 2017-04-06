@@ -5,3 +5,6 @@ My client is my aunt, Elodia, she owns El Noa Noa. Our website was not too compl
 
 
 My client is my aunt.  My partner and I are making a website for her store, because she does not have one for the store. Our website includes home, about, contact, menu, weekly specials, and money transfers. Our website is going to be useful for the customers. To make our website responsive it was not that diffcult, because we followed what Nick said.  -Lizbet Mendoza
+
+
+
